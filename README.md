@@ -1,49 +1,59 @@
-# {YOUR BOT NAME HERE}
-<https://t.me/{BOT_ID}>
+Mystic Path for LOVE
+https://t.me/@mystic_map_bot
+With just your name and zodiac sign we will find your love!
 
-{ONE LINE BOT DESCRIPTION HERE} 
+Hagit Ram
+Matan Shaorn
 
-* {Participant 1 Name}
-* {Participant 2 Name}
-* {Participant 3 Name}
 
-{OPTIONAL: MORE PROJECT INFO HERE}
+How to Run This Bot
 
-## Screenshots
+Prerequisites
 
-![SCREESHOT DECSRIPTION](screenshots/shopping-list-bot-1.png)
+Python 3.7 or 3.8
+pipenv
+{ADD MORE DEPENDENCIES HERE - FOR EXAMPLE MONGODB OR ANYTHING ELSE}
 
-## How to Run This Bot
-### Prerequisites
-* Python 3.7 or 3.8
-* pipenv
-* {ADD MORE DEPENDENCIES HERE - FOR EXAMPLE MONGODB OR ANYTHING ELSE}
 
-### Setup
-* Clone this repo from github
-* Install dependencies: `pipenv install`
-* Get a BOT ID from the [botfather](https://telegram.me/BotFather).
-* Create a `secrets.py` file:
+Setup
 
-        BOT_TOKEN = "your-bot-token-here"
 
-### Run
+Clone this repo from github
+
+
+Install dependencies: pipenv install
+
+
+Get a BOT ID from the botfather.
+
+
+Create a secrets.py file:
+  BOT_TOKEN = "your-bot-token-here"
+
+
+
+Run
 To run the bot use:
+pipenv run python bot.py
 
-    pipenv run python bot.py
-
-### Running tests
+Running tests
 First make sure to install all dev dependencies:
-
-    pipenv install --dev
-
+pipenv install --dev
 To run all test  use:
+pipenv run pytest
+(Or just pytest if running in a pipenv shell.)
 
-    pipenv run pytest
+Credits and References
 
-(Or just `pytest` if running in a pipenv shell.)
-
-## Credits and References
-* [Telegram Docs](https://core.telegram.org/bots)
-* [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot)
-* {ADD MORE REFERENCES TO LIBRARIES, APIS AND CODE SNIPPETS HERE}
+Telegram Docs
+python-telegram-bot
+Thanks for: Udi Oron, Yaniv mirel, Eran keidar, Itzak Hirschman, Omer Daniel, Rinat Nadav ,Ibrahim Abu Rmailah.
+also to:
+https://matplotlib.org/gallery/lines_bars_and_markers/barh.html
+https://stackoverflow.com/questions/12998430/remove-xticks-in-a-matplotlib-plot
+https://www.behindthename.com/
+https://github.com/python-telegram-bot/python-telegram-bot/blob/master/examples/inlinekeyboard.py
+https://stackoverflow.com/questions/30228069/how-to-display-the-value-of-the-bar-on-each-bar-with-pyplot-barh
+https://www.numerology.com/numerology-numbers/6
+https://www.horoscope.com/us/tarot/tarot-egyptian-love.aspx
+https://justastrologythings.com/pages/chart/
