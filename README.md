@@ -19,39 +19,50 @@ Python 3.7 or 3.8
 pipenv
 
 
-Setup
+	Setup
 
 
 Clone this repo from github
 
 
-Install dependencies: pipenv install
+Install dependencies: 	
+	
+	pipenv install
 
 
 Get a BOT ID from the botfather.
 
 
 Create a secrets.py file:
-  BOT_TOKEN = "your-bot-token-here"
+
+ 	BOT_TOKEN = "your-bot-token-here"
 
 
 
 Run
+
 To run the bot use:
-pipenv run python bot.py
+
+	pipenv run python bot.py
 
 Running tests
+
 First make sure to install all dev dependencies:
-pipenv install --dev
+
+	pipenv install --dev
+
 To run all test  use:
-pipenv run pytest
+
+	pipenv run pytest
 (Or just pytest if running in a pipenv shell.)
 
-Credits and References
+
+Credits and References:
 
 Telegram Docs
 
 python-telegram-bot
+
 
 Thanks for: Udi Oron, Yaniv mirel, Eran keidar, Itzak Hirschman, Omer Daniel, Rinat Nadav ,Ibrahim Abu Rmailah.
 
