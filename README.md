@@ -1,17 +1,17 @@
-	Mystic Path for LOVE
+Mystic Path for LOVE
 
-https://t.me/@mystic_map_bot
+	https://t.me/@mystic_map_bot
 
-With just your name and zodiac sign we will find your love!
+	With just your name and zodiac sign we will find your love!
 
 By:
 
-	Hagit Ram
+Hagit Ram
 
-	Matan Shaorn
+Matan Shaorn
 
 
-How to Run This Bot
+	How to Run This Bot
 
 Prerequisites:
 
