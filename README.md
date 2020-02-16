@@ -1,18 +1,20 @@
 Mystic Path for LOVE
+
 https://t.me/@mystic_map_bot
+
 With just your name and zodiac sign we will find your love!
 
 Hagit Ram
+
 Matan Shaorn
 
 
 How to Run This Bot
 
-Prerequisites
+Prerequisites:
 
 Python 3.7 or 3.8
 pipenv
-{ADD MORE DEPENDENCIES HERE - FOR EXAMPLE MONGODB OR ANYTHING ELSE}
 
 
 Setup
@@ -46,8 +48,11 @@ pipenv run pytest
 Credits and References
 
 Telegram Docs
+
 python-telegram-bot
+
 Thanks for: Udi Oron, Yaniv mirel, Eran keidar, Itzak Hirschman, Omer Daniel, Rinat Nadav ,Ibrahim Abu Rmailah.
+
 also to:
 https://matplotlib.org/gallery/lines_bars_and_markers/barh.html
 https://stackoverflow.com/questions/12998430/remove-xticks-in-a-matplotlib-plot
