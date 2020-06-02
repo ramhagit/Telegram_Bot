@@ -1,16 +1,22 @@
-[](\screenshots\mystic_map14.jpg)
+![printscreen first message](/screenshots/mystic_map14.jpg)
+
 # Mystic Path for LOVE
+
+### By:
+
+## Hagit Ram & Matan Shaorn
+
+## 
 
 	https://t.me/@mystic_map_bot
 
 	With just your name and zodiac sign we will find your love!
 
-By:
 
-Hagit Ram
 
-Matan Shaorn
+![printscreen first message](/screenshots/mystic_map4.jpg)
 
+![printscreen first message](/screenshots/mystic_map6.jpg)
 
 ## How to Run This Bot
 
